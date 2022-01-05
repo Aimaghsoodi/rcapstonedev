@@ -1,6 +1,5 @@
 ---
-title: "devrcap package usage"
-author: "Corrado Lanera"
+title: "rcapstonedev package usage"
 date: "`r Sys.Date()`"
 output: 
   prettydoc::html_pretty:
@@ -20,7 +19,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-Function and data from **devercap** package would be useful to show
+Function and data from **rcapstonedev** package would be useful to show
 information about history of earthquake arround the world.
 
 To do that, it provide a raw version of the
@@ -47,7 +46,7 @@ the following characteristics:
 
  - latitude and longitude columns converted to numeric class
 
- - use the funciton `eq_location_clean()` (from the **devrcap** package
+ - use the funciton `eq_location_clean()` (from the **rcapstonedev** package
    too) to clean the _location_name_ column by stripping out the country
    name (including the colon) and converting names to title case (as
    opposed to all caps).
@@ -59,7 +58,7 @@ data_cleaned <- devrcap::eq_clean_data(noaa)
 DT::datatable(data_cleaned)
 ```
 
-Using the ggplot2 geom `geom_timeline()` provided by **devrcap**,
+Using the ggplot2 geom `geom_timeline()` provided by **rcapstonedev**,
 we can use the cleaned data to plot time lines of earthquakes
 both overall and by group (e.g., country).
 
