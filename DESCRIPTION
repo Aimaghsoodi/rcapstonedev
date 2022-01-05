@@ -2,16 +2,14 @@ Package: devrcap
 Title: Mastering Software Development in R (Capstone)
 Version: 0.3.0
 Authors@R: 
-    person(given = "Corrado",
-           family = "Lanera",
+    person(given = "A",
+           family = "IM",
            role = c("aut", "cre"),
-           email = "corrado.lanera@gmail.com")
 Description: Collect Code and data for the capstone assignments
     of the Coursera specialization "Mastering Software Development in
     R."
 License: GPL-3
-URL: https://github.com/CorradoLanera/devrcap
-BugReports: https://github.com/CorradoLanera/devrcap/issues
+URL: github.com/Aimaghsoodi/rcapstonedev
 Depends: 
     R (>= 3.3)
 Imports: 
