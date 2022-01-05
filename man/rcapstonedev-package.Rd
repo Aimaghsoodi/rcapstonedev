@@ -7,19 +7,16 @@
 \title{devrcap: Mastering Software Development in R (Capstone)}
 \description{
 Collect Code and data for the capstone assignments
-    of the Coursera specialization "Mastering Software Development in
-    R."
+    of the Coursera specialization "Mastering Software Development in R."
 }
 \seealso{
 Useful links:
 \itemize{
   \item \url{https://github.com/CorradoLanera/devrcap}
-  \item Report bugs at \url{https://github.com/CorradoLanera/devrcap/issues}
+  \item Report bugs at \url{https://github.com/Aimaghsoodi/rcapstonedev}
 }
 
 }
-\author{
-\strong{Maintainer}: Corrado Lanera \email{corrado.lanera@gmail.com}
 
 }
 \keyword{internal}
