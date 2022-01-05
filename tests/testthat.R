@@ -1,4 +1,4 @@
 library(testthat)
-library(devrcap)
+library(rcapstonedev)
 
-test_check("devrcap")
+test_check("rcapstonedev")
