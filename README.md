@@ -9,6 +9,7 @@ status](https://codecov.io/gh/CorradoLanera/devrcap/branch/master/graph/badge.sv
 [![CRAN
 status](https://www.r-pkg.org/badges/version/devrcap)](https://cran.r-project.org/package=devrcap)
 [![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
+
 The goal is to collect code and data for the capstone assignments of the Coursera specialization “Mastering Software Development in R.”
 
 You can install the development version from
