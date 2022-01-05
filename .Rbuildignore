@@ -1,0 +1,9 @@
+^appveyor\.yml$
+^codecov\.yml$
+^\.travis\.yml$
+^\.github$
+^README\.Rmd$
+^data-raw$
+^LICENSE\.md$
+^devrcap\.Rproj$
+^\.Rproj\.user$
