@@ -1,4 +1,4 @@
-# devrcap
+# rcapstonedev
 
 [![Travis build
 status](https://travis-ci.org/CorradoLanera/devrcap.svg?branch=master)](https://travis-ci.org/CorradoLanera/devrcap)
